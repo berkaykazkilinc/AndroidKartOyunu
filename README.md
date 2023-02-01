@@ -6,7 +6,28 @@ Projede belirtilen süre içinde zorluk seviyesine göre kartları doğru eşle�
 Projenin yapımında Kotlin, Jetpack Compose teknolojileri, veritabanında Firebase ve Android Studio IDE’si kullanılmıs ̧tır.
 
 
-### Android uygulamasında bulunması beklenen isterler
+#### -Giriş Ekranı
+<img src="https://r.resimlink.com/arQKyLj3i0_.png" width=40% height=40%>
+
+#### -Kayıt Ekranı
+<img src="https://r.resimlink.com/e67rvsNV4MO.png" width=40% height=40%>
+
+#### -Şifre Ekranı
+<img src="https://r.resimlink.com/XR3xrM7A.png" width=40% height=40%>
+
+#### -Oyun Özellik Seçme Ekranı
+<img src="https://r.resimlink.com/Tn3-yhOW.png" width=40% height=40%>
+
+#### -2*2 Tek Oyuncu Ekranı
+<img src="https://r.resimlink.com/0RmNjAqh.png" width=40% height=40%>
+
+#### -4*4 Tek Oyuncu Ekranı
+<img src="https://r.resimlink.com/sIT2A.png" width=40% height=40%>
+
+#### -Çok Oyuncu Ekranı
+<img src="https://r.resimlink.com/kSvr5HDN3q.png" width=40% height=40%>
+
+## Android Uygulamasında Bulunması Beklenen Isterler:
 - Giriş ekranı: Oyun ilk açıldığında ekranda açılacak sayfa giriş ekranı olmalıdır. Kullanıcı bu ekranda, kullanıcı adı ve şifresi ile giriş yapabilmeli, şifre değiştirebilmeli ve kaydolabilmelidir.
 - Oyun ekranı: Kullanıcı giriş yaptıktan sonra karşısına gelecek ekran oyun ekranı olmalıdır. Burada Tek Oyuncu ve Çoklu Oyuncu Olarak iki farklı seçenek bulunmalıdır. Oyun ekranı ilk açıldığında “BAŞLA” butonu bulunmalıdır. Oyuncu BAŞLA butonuna tıkladığında oyun ve süre başlatılır.
 - Oyun başlatıldığında kartlar kapalı şekilde dağıtılmalıdır. Oyundaki kartların her birinden birer çift bulunmaktadır. Buradaki amaç açılan kartın diğer çiftini bulabilmektir. Oyunda kartlar ilk olarak rastgele dağıtılır.
