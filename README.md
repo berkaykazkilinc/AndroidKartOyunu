@@ -31,7 +31,7 @@ Projenin yapımında Kotlin, Jetpack Compose teknolojileri, veritabanında Fireb
 - Giriş ekranı: Oyun ilk açıldığında ekranda açılacak sayfa giriş ekranı olmalıdır. Kullanıcı bu ekranda, kullanıcı adı ve şifresi ile giriş yapabilmeli, şifre değiştirebilmeli ve kaydolabilmelidir.
 - Oyun ekranı: Kullanıcı giriş yaptıktan sonra karşısına gelecek ekran oyun ekranı olmalıdır. Burada Tek Oyuncu ve Çoklu Oyuncu Olarak iki farklı seçenek bulunmalıdır. Oyun ekranı ilk açıldığında “BAŞLA” butonu bulunmalıdır. Oyuncu BAŞLA butonuna tıkladığında oyun ve süre başlatılır.
 - Oyun başlatıldığında kartlar kapalı şekilde dağıtılmalıdır. Oyundaki kartların her birinden birer çift bulunmaktadır. Buradaki amaç açılan kartın diğer çiftini bulabilmektir. Oyunda kartlar ilk olarak rastgele dağıtılır.
-- Oyun zorluk seviyesi: Oyunda 2*2, 4*4 ve 6*6 olmak üzere 3 farklı zorluk seviyesi vardır.
+- Oyun zorluk seviyesi: Oyunda 2*2 ve 4*4 olmak üzere 2 farklı zorluk seviyesi vardır.
 - Kullanıcı bilgileri telefonda tutulmayacak bulut üzerinden doğrulama (log-in) yapılacaktır.
 - Kart bilgileri telefonda tutulmayacak bulut üzerinde bir veri tabanında saklanacak ve kullanıcı oradan erişecektir.
 
@@ -46,7 +46,7 @@ süre / 10) ] kadar puan kazanır.
 - Ev katsayıları
   - Gryffindor : 2
   - Slytherin : 2
-  -Hufflepuff : 1 
+  - Hufflepuff : 1 
   - Ravenclaw : 1
 
 ### Çoklu Oyuncu:
